@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="portColums">3</dimen>
+    <dimen name="landColums">4</dimen>
+    <dimen name="showTextSize">72dp</dimen>
+</resources>
